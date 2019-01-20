@@ -9,7 +9,7 @@ The use of Cobra model requires minimal of two files: The map.json file and the 
 
 <img src='./img/Workflow.png' width = 300></img>
 
-To use the escher tool for visualize RNA or differencial expression data, go to https://escher.github.io/, set 'Map' to 'None', and click 'Load map'. In the opened white board, click 'Map' -> 'Load map', and select the json file we provided in the map folder. Next, click 'Data' -> 'Load gene', and select the sample file we provided in the Data folder (WT_HL_to_WT_LL.csv). In this example, we have normalized RNA-seq data from low light and high light experiments stored in two coumns. The control should be in the first column and the treatment sample should be in the second column. It is important to set the name of index to 'Gene_id', so the webapp can recognize it. If you are interested in adding other reactions to the map, the model.json file is also provided.
+To use the escher tool for visualizing RNA or differencial expression data, go to https://escher.github.io/, set 'Map' to 'None', and click 'Load map'. In the opened white board, click 'Map' -> 'Load map', and select the json file we provided in the map folder. Next, click 'Data' -> 'Load gene', and select the sample file we provided in the Data folder (WT_HL_to_WT_LL.csv). In this example, we have normalized RNA-seq data from low light and high light experiments stored in two coumns. The control should be in the first column and the treatment sample should be in the second column. It is important to set the name of index to 'Gene_id', so the webapp can recognize it. If you are interested in adding other reactions to the map, the model.json file is also provided.
 
 Now you should be able to see the result like this.
 
