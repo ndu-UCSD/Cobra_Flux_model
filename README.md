@@ -17,7 +17,7 @@ Now you should be able to see the result like this.
 
 You can also put data from just one RNA-seq result and see the absolute value of it. Remember to change the settings and make sure the scales are what you expected.
 
-This tool can also be used for visulize flux results; you can see by selecting 'Data' -> 'Load reactions'. We provided an example file for comparing metabolic flux under low and high light conditions here as well (Flux_LL_HL.csv). For the reaction data, set the name of index to 'rxn'.
+This tool can also be used for visulizing flux results; you can see by selecting 'Data' -> 'Load reactions'. We provided an example file for comparing metabolic flux under low and high light conditions here as well (Flux_LL_HL.csv). For the reaction data, set the name of index to 'rxn'.
 
 <img src='./img/Flux_LL_HL.png' width = 1200></img>
 
