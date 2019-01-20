@@ -5,7 +5,7 @@ Cobra is a kind of genome-scale modeling of metabolic networks in both prokaryot
 ### Visualize differcial expression data
 * Visualization tool - https://escher.github.io/
 
-The use of Cobra model requires minimal two files: The map.json file and the data.csv file. The backbone model.json file is optional, and only required if you plan to add additional reactions that are not included in the map.json for visualization. Here is a quick illustration of the workflow.
+The use of Cobra model requires minimal of two files: The map.json file and the data.csv file. The backbone model.json file is optional, and only required if you plan to add additional reactions that are not included in the map.json for visualization. Here is a quick illustration of the workflow.
 
 <img src='./img/Workflow.png' width = 300></img>
 
