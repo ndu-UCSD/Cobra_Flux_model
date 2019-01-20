@@ -2,7 +2,7 @@
 
 Cobra is a kind of genome-scale modeling of metabolic networks in both prokaryotes and eukaryotes. Instructions for installation and implementation of this tool can be found here (https://cobrapy.readthedocs.io). Here we demostrate the application of our reconstructed whole genome model using Cobra tool.
 
-### Visualize differcial expression data
+### Visualize RNA Seq data
 * Visualization tool - https://escher.github.io/
 
 The use of Cobra model requires minimal of two files: The map.json file and the data.csv file. The backbone model.json file is optional, and only required if you plan to add additional reactions that are not included in the map.json for visualization. Here is a quick illustration of the workflow.
